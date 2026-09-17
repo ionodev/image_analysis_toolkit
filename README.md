@@ -1,8 +1,7 @@
 # Image Analysis Toolkit
 
-Scripts from the FYS-2010 (Image Analysis) home exam: Fourier-domain
-analysis, image registration, multispectral remote sensing, and CT/3D
-reconstruction.
+Image analysis scripts: Fourier-domain analysis, image registration,
+multispectral remote sensing, and CT/3D reconstruction.
 
 ## Layout
 
