@@ -1,0 +1,5 @@
+*.vtk -text
+*.npy -text
+*.mat -text
+*.jpg -text
+*.png -text
